@@ -1,0 +1,2 @@
+class AristsController < ApplicationController
+end
